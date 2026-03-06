@@ -1,0 +1,11 @@
+FUTCAM - Links de possíveis NVRs (para compra/cotação)
+
+Como usar:
+- Cole novos links abaixo, um por linha, de preferência com uma descrição curta antes.
+- Anote também quantos canais, portas PoE e resolução máxima.
+
+---
+
+1) Hikvision DS-7108NI-Q1/8P (NVR 8 canais IP, 8 portas PoE, Full HD 1080p, até 6 TB)
+- Mercado Livre: https://www.mercadolivre.com.br/nvr-de-seguranca-hikvision-ds7108niq18p-cctv-ip1080-de-8/up/MLBU3169695202?pdp_filters=item_id%3AMLB4056365715&matt_tool=38524122#origin=share&sid=share&wid=MLB4056365715
+

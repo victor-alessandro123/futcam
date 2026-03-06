@@ -1,0 +1,23 @@
+FUTCAM - Links de possíveis câmeras (para compra/cotação)
+
+Como usar:
+- Cole novos links abaixo, um por linha, de preferência com uma descrição curta antes.
+- Se houver variações (lente 2.8mm vs 3.6mm, PoE vs Wi‑Fi), anote na descrição.
+
+---
+
+1) Hikvision DS-2CD1023G2-LIU (Bullet IP 2MP, PoE)
+- Mercado Livre: https://www.mercadolivre.com.br/camera-bullet-ip-2mp-30mts-hikvision-ds2cd1023g2liu-rtmp/up/MLBU3372615233?pdp_filters=item_id%3AMLB5618565908&matt_tool=38524122#origin=share&sid=share&wid=MLB5618565908
+
+2) Hikvision DS-2CD1023G2-LIUF/SL (Bullet IP 2MP, 2.8mm, áudio, PoE)
+- Mercado Livre: https://www.mercadolivre.com.br/cmera-hikvision-ip-2mp-bullet-ds-2cd1023g2-liufsl28mm/p/MLB38225193?pdp_filters=item_id%3AMLB3884455921&matt_tool=38524122#origin=share&sid=share&wid=MLB3884455921
+
+3) Hikvision DS-2CD1323G2-LIU (Dome IP 2MP, 2.8mm, ColorVu, áudio)
+- Mercado Livre: https://www.mercadolivre.com.br/camera-ip-dome-30mt-2mp-28mm-ds2cd1323g2liu/up/MLBU1164498497?pdp_filters=item_id%3AMLB4595811132&matt_tool=38524122#origin=share&sid=share&wid=MLB4595811132
+
+4) Hikvision DS-2DE2C400MWG-E (Speed Dome IP 4MP, PTZ, Smart Hybrid Light, áudio)
+- Mercado Livre: https://www.mercadolivre.com.br/camera-speed-dome-ip-30mt-4mp-ds-2de2c400mwg-e/p/MLB50878756?pdp_filters=item_id%3AMLB4225183329&matt_tool=38524122#origin=share&sid=share&wid=MLB4225183329
+
+5) Hikvision DS-2CD1323G2-LIU (Dome IP 2MP, 2.8mm, híbrida, áudio)
+- Mercado Livre: https://www.mercadolivre.com.br/camera-ip-hikvision-audio-ds2cd1323g2liu-hibrida-2mp-28mm/up/MLBU3224966336?pdp_filters=item_id%3AMLB4086637121&matt_tool=38524122#origin=share&sid=share&wid=MLB4086637121
+
