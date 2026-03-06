@@ -1,0 +1,70 @@
+Câmera de Segurança Hikvision Bullet IP DS-2CD1023G2-LIU
+
+Vigilância Inteligente com Alta Definição e Detecção Avançada
+
+A Câmera de Segurança Bullet IP Hikvision DS-2CD1023G2-LIU oferece monitoramento de alta qualidade com resolução Full HD de 2MP, garantindo imagens nítidas e claras para máxima segurança. Projetada com tecnologia de ponta, essa câmera IP é equipada com detecção inteligente de movimento e funções de análise de vídeo, proporcionando um nível superior de vigilância.
+
+Sua tecnologia ColorVu permite a captura de imagens em cores mesmo em condições de baixa luminosidade, garantindo uma visão detalhada de dia e de noite. Além disso, a câmera possui infravermelho de até 30 metros para visão noturna eficaz, garantindo segurança contínua, mesmo em ambientes sem iluminação. O modelo conta com microfone embutido, possibilitando a gravação de áudio para monitoramento mais completo.
+
+O design compacto e resistente com classificação IP67 oferece proteção contra poeira e água, sendo ideal para uso em ambientes externos. Além disso, a conectividade IP permite o monitoramento remoto via dispositivos móveis ou computadores, facilitando o controle em tempo real.
+
+Principais Características:
+
+Resolução Full HD 2MP para imagens claras e nítidas
+Tecnologia ColorVu para imagens em cores, mesmo à noite
+Visão noturna com infravermelho de até 30 metros
+Microfone embutido para captura de áudio
+Detecção inteligente de movimento e análise de vídeo
+Design resistente a intempéries (IP67), ideal para ambientes externos
+Conectividade IP para monitoramento remoto via smartphone ou computador
+Fácil instalação com suporte a PoE (Power over Ethernet)
+A Câmera Bullet IP Hikvision DS-2CD1023G2-LIU é perfeita para quem busca uma solução de vigilância completa e inteligente, com alta qualidade de imagem e recursos avançados de monitoramento.
+
+Compre agora e garanta a segurança do seu patrimônio com a Câmera Hikvision DS-2CD1023G2-LIU!
+
+Recursos Adicionais:
+
+Alto Alcance Dinâmico (WDR): Proporciona imagens de qualidade superior em ambientes com iluminação mista, compensando áreas muito claras ou escuras
+Infravermelho Inteligente (IR): Visão noturna até 30 metros, ideal para vigilância em ambientes com pouca ou nenhuma iluminação
+Detecção de Movimento e Eventos Inteligentes: Funções avançadas de análise de vídeo para uma vigilância mais precisa e eficiente
+Microfone Embutido: Oferece captura de áudio, possibilitando gravação de som junto com a imagem
+Redução de Ruído 3D DNR: Melhora a nitidez da imagem ao reduzir o ruído em condições de pouca luz
+Certificação IP67: Alta resistência a intempéries, ideal para uso em ambientes externos
+A Hikvision DS-2CD1023G2-LIU é uma câmera de segurança IP de alta performance, adequada para monitoramento de áreas externas e internas, fornecendo imagens nítidas e funcionalidades avançadas de vigilância, como detecção de intrusão e visão noturna aprimorada.
+
+Ficha Técnica:
+
+Marca: Hikvision
+Modelo: DS-2CD1023G2-LIU
+Tipo de Câmera: IP (Internet Protocol)
+Resolução: 2MP (1920 x 1080)
+Sensor de Imagem: 1/2.8" Progressive Scan CMOS
+Lente: 2.8mm ou 4mm (variações de acordo com o modelo)
+Campo de Visão:
+2.8mm: 114° (horizontal), 60° (vertical), 135° (diagonal)
+4mm: 92° (horizontal), 50° (vertical), 109° (diagonal)
+Iluminação Mínima: 0.005 Lux @ (F1.6, AGC ligado), 0 Lux com IR
+Alcance IR: Até 30 metros
+Iluminação IR Inteligente: Sim
+Compressão de Vídeo: H.265+/H.265/H.264+/H.264
+WDR (Wide Dynamic Range): 120dB
+Redução de Ruído: 3D DNR (Digital Noise Reduction)
+Áudio Integrado: Microfone embutido
+Detecção Inteligente:
+Detecção de Movimento
+Detecção de Intrusão
+Detecção de Cruzamento de Linha
+Compatibilidade: ONVIF, ISAPI, SDK
+Alimentação: 12V DC ± 25%, PoE (802.3af, Classe 3)
+Consumo de Energia: Máximo 5.5W
+Conectividade: Conector RJ45 10M/100M Ethernet
+Proteção: IP67 (resistente à água e poeira)
+Temperatura de Operação: -30°C a 60°C
+Dimensões: 172.7 mm × 69.1 mm × 65.9 mm
+Peso: Aproximadamente 350g
+Cor: Branco
+
+Itens inclusos:
+
+-1 Câmera de Segurança Hikvision Bullet IP DS-2CD1023G2-LIU;
+-1 Manual do usuário.
